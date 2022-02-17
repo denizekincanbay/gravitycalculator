@@ -36,9 +36,12 @@ public class gravitycalculator  {
             System.out.println("The object's position after " + fallingTime + " seconds is " + x + " m.");
         }
     }
+    
     ```
     output
-  ![image](https://user-images.githubusercontent.com/99917984/154585589-b07d53d6-2a34-42a5-9380-9c64edadddc1.png)
+    
+ ![image](https://user-images.githubusercontent.com/99917984/154586156-a97a8d40-8e8c-4f3f-be22-704cffb93ace.png)
+
   
   
   
