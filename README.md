@@ -37,7 +37,8 @@ public class gravitycalculator  {
         }
     }
     ```
-    
+    output
   ![image](https://user-images.githubusercontent.com/99917984/154585589-b07d53d6-2a34-42a5-9380-9c64edadddc1.png)
+  
   
   
